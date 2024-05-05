@@ -6,7 +6,7 @@ Détails du projet
 Mon projet Notion est un tout-en-un qui me permet de prendre des notes, de gérer les tâches et ma progression dans la formation SAYNA.
 Ce projet Notion comprend :
 
-(1) - Une Page Accueil, mon espace de travail nommé "La débrouille WorkSpace" regroupant les autres pages dans un menu ci-dessous.
+(1) - Une Page Accueil, mon espace de travail nommé "La débrouille WorkSpace" regroupant les autres pages dans un menu.
 (2) - La page Notes, base de donneés des notes
 (3) - La page Taches, base de donneés des taches
 (4) - La page Modules, base de donneés des modules
